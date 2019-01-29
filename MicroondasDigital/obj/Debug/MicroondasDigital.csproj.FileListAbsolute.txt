@@ -1,0 +1,10 @@
+C:\Users\Fernanda Peres\Source\Repos\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasDigital.csprojAssemblyReference.cache
+C:\Users\Fernanda Peres\Source\Repos\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasDigital.frmPrincipal.resources
+C:\Users\Fernanda Peres\Source\Repos\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasDigital.Properties.Resources.resources
+C:\Users\Fernanda Peres\Source\Repos\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasDigital.csproj.GenerateResource.cache
+C:\Users\Fernanda Peres\Source\Repos\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasDigital.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda Peres\Source\Repos\MicroondasDigital\MicroondasDigital\bin\Debug\MicroondasDigital.exe.config
+C:\Users\Fernanda Peres\Source\Repos\MicroondasDigital\MicroondasDigital\bin\Debug\MicroondasDigital.exe
+C:\Users\Fernanda Peres\Source\Repos\MicroondasDigital\MicroondasDigital\bin\Debug\MicroondasDigital.pdb
+C:\Users\Fernanda Peres\Source\Repos\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasDigital.exe
+C:\Users\Fernanda Peres\Source\Repos\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasDigital.pdb
